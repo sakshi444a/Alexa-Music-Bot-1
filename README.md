@@ -1,6 +1,6 @@
-<h2 align="centre">🇩ᴀʀᴋ ✘ 🇲ᴜsɪᴄ </h2>
+<h2 align="centre">🇩ᴇᴍᴏɴ 🇲ᴜsɪᴄ 🇧ᴏᴛ  </h2>
 
-### ᴅᴀʀᴋ ✘ ᴍᴜsɪᴄ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
+### ᴅᴇᴍᴏɴ ᴍᴜsɪᴄ ʙᴏᴛ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
 <p align="center"><a href="https://t.me/World_FriendShip_Zone"><img src="https://telegra.ph/file/99160c3518583eb5d8c0d.jpg" width="400"></a></p>
 
@@ -30,4 +30,4 @@
 
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sumit9969/DarkxMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sumit9969/Demon-Music-Bot)
