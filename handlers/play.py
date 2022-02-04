@@ -163,21 +163,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="Uᴘᴅᴀᴛᴇ",
-                            url=f"https://t.me/eSport_BOTs")
+                            url=f"https://t.me/Demon_Creators")
                ],
                [
                     InlineKeyboardButton(
                             text="Dɪsᴄᴜss",
-                            url=f"https://t.me/Sanki_Owner"),
+                            url=f"https://t.me/Demon_Creators_Support"),
                             
                     InlineKeyboardButton(
                             text="Sᴜᴘᴘᴏʀᴛ",
-                            url=f"https://t.me/Smoker_Feelings")
+                            url=f"https://t.me/World_FriendShip_Zone")
                ],
                [
                         InlineKeyboardButton(
                             text="Mᴏᴠɪᴇs ɢʀᴏᴜᴘ",
-                            url=f"https://t.me/EsportClan")
+                            url=f"https://t.me/MovieFlix_Movies_Group")
                    
                 ]
             ]
@@ -212,25 +212,25 @@ async def play(_, message: Message):
                 secmul *= 60
 
             keyboard = InlineKeyboardMarkup(
-             [
+              [
                 [
                     InlineKeyboardButton(
                             text="Uᴘᴅᴀᴛᴇ",
-                            url=f"https://t.me/eSport_BOTs")
+                            url=f"https://t.me/Demon_Creators")
                ],
                [
                     InlineKeyboardButton(
                             text="Dɪsᴄᴜss",
-                            url=f"https://t.me/Sanki_Owner"),
+                            url=f"https://t.me/Demon_Creators_Support"),
                             
                     InlineKeyboardButton(
                             text="Sᴜᴘᴘᴏʀᴛ",
-                            url=f"https://t.me/Smoker_Feelings")
+                            url=f"https://t.me/World_FriendShip_Zone")
                ],
                [
                         InlineKeyboardButton(
                             text="Mᴏᴠɪᴇs ɢʀᴏᴜᴘ",
-                            url=f"https://t.me/EsportClan")
+                            url=f"https://t.me/MovieFlix_Movies_Group")
                    
                 ]
             ]
@@ -242,25 +242,25 @@ async def play(_, message: Message):
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
-             [
+              [
                 [
                     InlineKeyboardButton(
                             text="Uᴘᴅᴀᴛᴇ",
-                            url=f"https://t.me/eSport_BOTs")
+                            url=f"https://t.me/Demon_Creators")
                ],
                [
                     InlineKeyboardButton(
                             text="Dɪsᴄᴜss",
-                            url=f"https://t.me/Sanki_Owner"),
+                            url=f"https://t.me/Demon_Creators_Support"),
                             
                     InlineKeyboardButton(
                             text="Sᴜᴘᴘᴏʀᴛ",
-                            url=f"https://t.me/Smoker_Feelings")
+                            url=f"https://t.me/World_FriendShip_Zone")
                ],
                [
                         InlineKeyboardButton(
                             text="Mᴏᴠɪᴇs ɢʀᴏᴜᴘ",
-                            url=f"https://t.me/EsportClan")
+                            url=f"https://t.me/MovieFlix_Movies_Group")
                    
                 ]
             ]
@@ -310,25 +310,25 @@ async def play(_, message: Message):
             return
 
         keyboard = InlineKeyboardMarkup(
-             [
+              [
                 [
                     InlineKeyboardButton(
                             text="Uᴘᴅᴀᴛᴇ",
-                            url=f"https://t.me/eSport_BOTs")
+                            url=f"https://t.me/Demon_Creators")
                ],
                [
                     InlineKeyboardButton(
                             text="Dɪsᴄᴜss",
-                            url=f"https://t.me/Sanki_Owner"),
+                            url=f"https://t.me/Demon_Creators_Support"),
                             
                     InlineKeyboardButton(
                             text="Sᴜᴘᴘᴏʀᴛ",
-                            url=f"https://t.me/Smoker_Feelings")
+                            url=f"https://t.me/World_FriendShip_Zone")
                ],
                [
                         InlineKeyboardButton(
                             text="Mᴏᴠɪᴇs ɢʀᴏᴜᴘ",
-                            url=f"https://t.me/EsportClan")
+                            url=f"https://t.me/MovieFlix_Movies_Group")
                    
                 ]
             ]
