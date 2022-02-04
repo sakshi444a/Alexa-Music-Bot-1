@@ -212,24 +212,24 @@ async def play(_, message: Message):
                 secmul *= 60
 
             keyboard = InlineKeyboardMarkup(
-            [
+             [
                 [
                     InlineKeyboardButton(
-                            text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
+                            text="Uᴘᴅᴀᴛᴇ",
                             url=f"https://t.me/eSport_BOTs")
                ],
                [
                     InlineKeyboardButton(
-                            text="𝐒𝐦𝐨𝐊𝐞𝐫 🚬",
+                            text="Dɪsᴄᴜss",
                             url=f"https://t.me/Sanki_Owner"),
                             
                     InlineKeyboardButton(
-                            text="𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🥀",
+                            text="Sᴜᴘᴘᴏʀᴛ",
                             url=f"https://t.me/Smoker_Feelings")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩⭐",
+                            text="Mᴏᴠɪᴇs ɢʀᴏᴜᴘ",
                             url=f"https://t.me/EsportClan")
                    
                 ]
@@ -242,24 +242,24 @@ async def play(_, message: Message):
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
-            [
+             [
                 [
                     InlineKeyboardButton(
-                            text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
+                            text="Uᴘᴅᴀᴛᴇ",
                             url=f"https://t.me/eSport_BOTs")
                ],
                [
                     InlineKeyboardButton(
-                            text="𝐒𝐦𝐨𝐊𝐞𝐫 🚬",
+                            text="Dɪsᴄᴜss",
                             url=f"https://t.me/Sanki_Owner"),
                             
                     InlineKeyboardButton(
-                            text="𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🥀",
+                            text="Sᴜᴘᴘᴏʀᴛ",
                             url=f"https://t.me/Smoker_Feelings")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩⭐",
+                            text="Mᴏᴠɪᴇs ɢʀᴏᴜᴘ",
                             url=f"https://t.me/EsportClan")
                    
                 ]
@@ -310,24 +310,24 @@ async def play(_, message: Message):
             return
 
         keyboard = InlineKeyboardMarkup(
-            [
+             [
                 [
                     InlineKeyboardButton(
-                            text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
+                            text="Uᴘᴅᴀᴛᴇ",
                             url=f"https://t.me/eSport_BOTs")
                ],
                [
                     InlineKeyboardButton(
-                            text="𝐒𝐦𝐨𝐊𝐞𝐫 🚬",
+                            text="Dɪsᴄᴜss",
                             url=f"https://t.me/Sanki_Owner"),
                             
                     InlineKeyboardButton(
-                            text="𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🥀",
+                            text="Sᴜᴘᴘᴏʀᴛ",
                             url=f"https://t.me/Smoker_Feelings")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩⭐",
+                            text="Mᴏᴠɪᴇs ɢʀᴏᴜᴘ",
                             url=f"https://t.me/EsportClan")
                    
                 ]
