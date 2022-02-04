@@ -24,15 +24,15 @@
       "required": true
     },
     "API_HASH": {
-      "description": "App hash from my.telegram.org/apps",
+      "description": "𝙰𝙿𝙸_𝙷𝙰𝚂𝙷 𝙵𝚛𝚘𝚖 my.telegram.org/apps",
       "required": true
     },
     "SUDO_USERS": {
-      "description": "List of user IDs counted as admin everywhere (separated by space).",
+      "description": "𝙻𝚒𝚜𝚝 𝚘𝚏 𝚞𝚜𝚎𝚛 𝙸𝚍𝚜 𝚌𝚘𝚞𝚗𝚝𝚎𝚍 𝚊𝚜 𝚊𝚍𝚖𝚒𝚗 𝚎𝚟𝚎𝚛𝚢𝚠𝚑𝚎𝚛𝚎 (𝚜𝚎𝚙𝚊𝚛𝚊𝚝𝚎𝚍 𝚋𝚢 𝚜𝚙𝚊𝚌𝚎).",
       "required": true
     },
     "DURATION_LIMIT": {
-      "description": "Max audio duration limit for downloads (minutes).",
+      "description": "𝙼𝚊𝚡 𝚊𝚞𝚍𝚒𝚘 𝚍𝚞𝚛𝚊𝚝𝚒𝚘𝚗 𝚕𝚒𝚖𝚒𝚝 𝚏𝚘𝚛 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚜 (𝚖𝚒𝚗𝚞𝚝𝚎𝚜).",
       "required": true,
       "value": "10"
     }
