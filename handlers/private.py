@@ -13,14 +13,14 @@ async def start_(client: Client, message: Message):
         photo=f"https://telegra.ph/file/10d469ec236d49a43650c.jpg",
         caption=f"""**ᴛʜɪs ᴍᴜsɪᴄ ʙᴏᴛ ɪs ᴛʜᴇ ɴᴇxᴛ ʟᴇᴠᴇʟ ᴏғ ɢᴇɴᴇʀᴀᴛɪᴏɴ ᴛʜᴀᴛ ʜᴀs ʙᴇsᴛ ʜɪɢʜ ǫᴜᴀʟɪᴛʏ ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ ᴀɴᴅ ᴛʜᴇ ᴛʜɪs ᴍᴜsɪᴄ ʙᴏᴛ sᴍᴀsʜ ᴛʜᴇᴍ ᴏғ ᴀʟʟ sᴇʀᴠᴇʀ ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ ᴀss...
 
-🇴ᴡɴᴇʀ :- [YᴀSʜ RᴀJ](https://t.me/Simple_Mundaa)
+🇴ᴡɴᴇʀ :- [YᴀSʜ RᴀJ](https://t.me/give_up_to_god)
 🇸ᴜᴘᴘᴏʀᴛ 🇬ʀᴏᴜᴘ   » [Wᴏʀʟᴅ FʀɪᴇɴᴅSʜɪᴘ Zᴏɴᴇ](https://t.me/World_FriendShip_Zone)
 🇩ɪsᴄᴜss 🇬ʀᴏᴜᴘ  » [Dᴇᴍᴏɴ Cʀᴇᴀᴛᴏʀs Sᴜᴘᴘᴏʀᴛ](https://t.me/Demon_Creators_Support)
 
 🇫ᴇᴍᴀʟᴇ 🇴ᴡɴᴇʀ  » [Nɪᴋɪᴛᴀ](https://t.me/Cute_Shezhadi012)
 🇺ᴘᴅᴀᴛᴇ 🇨ʜᴀɴɴᴇʟ  » [Dᴇᴍᴏɴ Cʀᴇᴀᴛᴏʀs](https://t.me/Demon_Creators)
 
-ɪғ ʏᴏᴜ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴀɴᴅ ɪssᴜᴇ sᴏ ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇsᴇ ɪᴅ = [Sᴜᴍɪᴛ Yᴀᴅᴀᴠ](https://t.me/Simple_Mundaa)**""",
+ɪғ ʏᴏᴜ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴀɴᴅ ɪssᴜᴇ sᴏ ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇsᴇ ɪᴅ = [𝐘𝐀𝐒𝐇 𝐑𝐀𝐉](https://t.me/give_up_to_god)**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
