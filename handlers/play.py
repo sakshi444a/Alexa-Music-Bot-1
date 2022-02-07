@@ -159,21 +159,13 @@ async def play(_, message: Message):
         views = "Locally added"
 
         keyboard = InlineKeyboardMarkup(
+             [
             [
-                [
-                    InlineKeyboardButton(
-                            text="Uᴘᴅᴀᴛᴇ",
-                            url=f"https://t.me/Demon_Creators")
-               ]
-                
-               [
-                        InlineKeyboardButton(
-                            text="Mᴏᴠɪᴇs ɢʀᴏᴜᴘ",
-                            url=f"https://t.me/Alexa_xd_group")
-                   
-                ]
+                InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/Alexa_xd_group"),
+                InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇs", url=f"https://t.me/Demon_Creators"),
             ]
-        )
+        ]
+    )
 
         requested_by = message.from_user.first_name
         await generate_cover(requested_by, title, views, duration, thumbnail)
@@ -204,21 +196,13 @@ async def play(_, message: Message):
                 secmul *= 60
 
             keyboard = InlineKeyboardMarkup(
-               [
                 [
-                    InlineKeyboardButton(
-                            text="Uᴘᴅᴀᴛᴇ",
-                            url=f"https://t.me/Demon_Creators")
-               ]
-                
-               [
-                        InlineKeyboardButton(
-                            text="Mᴏᴠɪᴇs ɢʀᴏᴜᴘ",
-                            url=f"https://t.me/Alexa_xd_group")
-                   
-                ]
+            [
+                InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/Alexa_xd_group"),
+                InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇs", url=f"https://t.me/Demon_Creators"),
             ]
-        )
+        ]
+    )
 
         except Exception as e:
             title = "NaN"
@@ -226,21 +210,13 @@ async def play(_, message: Message):
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
-               [
                 [
-                    InlineKeyboardButton(
-                            text="Uᴘᴅᴀᴛᴇ",
-                            url=f"https://t.me/Demon_Creators")
-               ]
-                
-               [
-                        InlineKeyboardButton(
-                            text="Mᴏᴠɪᴇs ɢʀᴏᴜᴘ",
-                            url=f"https://t.me/Alexa_xd_group")
-                   
-                ]
+            [
+                InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/Alexa_xd_group"),
+                InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇs", url=f"https://t.me/Demon_Creators"),
             ]
-        )
+        ]
+    )
 
         if (dur / 60) > DURATION_LIMIT:
             await lel.edit(
@@ -286,21 +262,13 @@ async def play(_, message: Message):
             return
 
         keyboard = InlineKeyboardMarkup(
-               [
                 [
-                    InlineKeyboardButton(
-                            text="Uᴘᴅᴀᴛᴇ",
-                            url=f"https://t.me/Demon_Creators")
-               ]
-                
-               [
-                        InlineKeyboardButton(
-                            text="Mᴏᴠɪᴇs ɢʀᴏᴜᴘ",
-                            url=f"https://t.me/Alexa_xd_group")
-                   
-                ]
+            [
+                InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/Alexa_xd_group"),
+                InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇs", url=f"https://t.me/Demon_Creators"),
             ]
-        )
+        ]
+    )
 
         if (dur / 60) > DURATION_LIMIT:
             await lel.edit(
