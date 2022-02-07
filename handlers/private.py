@@ -17,7 +17,7 @@ async def start_(client: Client, message: Message):
 🇸ᴜᴘᴘᴏʀᴛ 🇬ʀᴏᴜᴘ   » [Aʟᴇxᴀ Xᴅ Gʀᴏᴜᴘ](https://t.me/Alexa_xd_group)
 🇩ɪsᴄᴜss 🇬ʀᴏᴜᴘ  » [Dᴇᴍᴏɴ Cʀᴇᴀᴛᴏʀs Sᴜᴘᴘᴏʀᴛ](https://t.me/Demon_Support_Group)
 
-🇫ᴇᴍᴀʟᴇ 🇴ᴡɴᴇʀ  » [Nɪᴋɪᴛᴀ](https://t.me/Cute_Shezhadi012)
+🇫ᴇᴍᴀʟᴇ 🇴ᴡɴᴇʀ  » [Sᴀᴋsʜɪ](https://t.me/Itzz_Aruu_babee)
 🇺ᴘᴅᴀᴛᴇ 🇨ʜᴀɴɴᴇʟ  » [Dᴇᴍᴏɴ Cʀᴇᴀᴛᴏʀs](https://t.me/Demon_Creators)
 
 ɪғ ʏᴏᴜ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴀɴᴅ ɪssᴜᴇ sᴏ ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇsᴇ ɪᴅ = [ʏᴀsʜ ʀᴀᴊ](https://t.me/give_up_to_god)**""",
