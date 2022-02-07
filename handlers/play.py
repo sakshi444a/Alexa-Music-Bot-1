@@ -98,7 +98,7 @@ async def play(_, message: Message):
     global que
     global useer
 
-    lel = await message.reply("🔎 **ғɪɴᴅɪɴɢ ᴛʜᴇ sᴏɴɢ 🅳︎ᴇᴍᴏɴ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ...**")
+    lel = await message.reply("🔎 **ғɪɴᴅɪɴɢ ᴛʜᴇ sᴏɴɢ 🅰︎ʟᴇxᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ...**")
 
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
@@ -118,7 +118,7 @@ async def play(_, message: Message):
                     invitelink = await _.export_chat_invite_link(chid)
                 except:
                     await lel.edit(
-                        "<b>ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ᴏғ ʏᴏᴜʀ ɢʀᴏᴜᴘ ғɪʀsᴛ 🅳︎ᴇᴍᴏɴ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ</b>")
+                        "<b>ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ᴏғ ʏᴏᴜʀ ɢʀᴏᴜᴘ ғɪʀsᴛ 🅰︎ʟᴇxᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ</b>")
                     return
 
                 try:
@@ -318,7 +318,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="****🅳︎ᴇᴍᴏɴ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ sᴏɴɢ ᴘᴏsɪᴛɪᴏɴ** {}**".format(position),
+            caption="****🅰︎ʟᴇxᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ sᴏɴɢ ᴘᴏsɪᴛɪᴏɴ** {}**".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -335,7 +335,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**🅳︎ᴇᴍᴏɴ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ ɴᴏᴡ ᴘʟᴀʏɪɴɢ ᴀᴛ `{}`...**".format(
+            caption="**🅰︎ʟᴇxᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ ɴᴏᴡ ᴘʟᴀʏɪɴɢ ᴀᴛ `{}`...**".format(
         message.chat.title
         ), )
 
