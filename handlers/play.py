@@ -98,7 +98,7 @@ async def play(_, message: Message):
     global que
     global useer
 
-    lel = await message.reply("🔎 **ғɪɴᴅɪɴɢ ᴛʜᴇ sᴏɴɢ 🅰︎ʟᴇxᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ...**")
+    lel = await message.reply("⚡ **ғɪɴᴅɪɴɢ ᴛʜᴇ sᴏɴɢ 🅰︎ristocrax 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ...**")
 
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
@@ -106,7 +106,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Alexa_Music"
+        user.first_name = "Aristocrax_Music"
     usar = user
     wew = usar.id
     try:
@@ -118,7 +118,7 @@ async def play(_, message: Message):
                     invitelink = await _.export_chat_invite_link(chid)
                 except:
                     await lel.edit(
-                        "<b>ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ᴏғ ʏᴏᴜʀ ɢʀᴏᴜᴘ ғɪʀsᴛ 🅰︎ʟᴇxᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ</b>")
+                        "<b>ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ᴏғ ʏᴏᴜʀ ɢʀᴏᴜᴘ ғɪʀsᴛ 🅰︎ristrocrax 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ</b>")
                     return
 
                 try:
@@ -162,7 +162,7 @@ async def play(_, message: Message):
              [
             [
                 InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/Alexa_xd_group"),
-                InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇs", url=f"https://t.me/Demon_Creators"),
+              
             ]
         ]
     )
@@ -199,7 +199,7 @@ async def play(_, message: Message):
                 [
             [
                 InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/Alexa_xd_group"),
-                InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇs", url=f"https://t.me/Demon_Creators"),
+                
             ]
         ]
     )
@@ -213,7 +213,7 @@ async def play(_, message: Message):
                 [
             [
                 InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/Alexa_xd_group"),
-                InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇs", url=f"https://t.me/Demon_Creators"),
+                
             ]
         ]
     )
@@ -231,7 +231,7 @@ async def play(_, message: Message):
             return await lel.edit(
                 "Gɪᴠᴇ ᴍᴜsɪᴄ ɴᴀᴍᴇ ᴛᴏ ᴘʟᴀʏ**"
             )
-        await lel.edit("✨")
+        await lel.edit("⚡")
         query = message.text.split(None, 1)[1]
         # print(query)
         try:
@@ -265,7 +265,7 @@ async def play(_, message: Message):
                 [
             [
                 InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/Alexa_xd_group"),
-                InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇs", url=f"https://t.me/Demon_Creators"),
+             
             ]
         ]
     )
@@ -286,7 +286,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="****🅰︎ʟᴇxᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ sᴏɴɢ ᴘᴏsɪᴛɪᴏɴ** {}**".format(position),
+            caption="****🅰︎ristrocrax 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ sᴏɴɢ ᴘᴏsɪᴛɪᴏɴ** {}**".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -303,7 +303,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**🅰︎ʟᴇxᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ ɴᴏᴡ ᴘʟᴀʏɪɴɢ ᴀᴛ `{}`...**".format(
+            caption="**🅰︎ristrocrax 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ ɴᴏᴡ ᴘʟᴀʏɪɴɢ ᴀᴛ `{}`...**".format(
         message.chat.title
         ), )
 
