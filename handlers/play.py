@@ -161,7 +161,7 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
              [
             [
-                InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/SECRETLAND_XD"),
+                InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/ASERNIC_SUPPORT"),
               
             ]
         ]
@@ -198,7 +198,7 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
                 [
             [
-                InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/SECRETLAND_XD"),
+                InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/ASERNIC_SUPPORT"),
                 
             ]
         ]
@@ -212,7 +212,7 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
                 [
             [
-                InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/SECRETLAND_XD"),
+                InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/ASERNIC_SUPPORT"),
                 
             ]
         ]
@@ -264,7 +264,7 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
                 [
             [
-                InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/SECRETLAND_XD"),
+                InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/ASERNIC_SUPPORT"),
              
             ]
         ]
